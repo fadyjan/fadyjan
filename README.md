@@ -1,11 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Fady Jan</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/fady-jan-367b6b131/">LinkedIn</a> •
 </p>
@@ -21,9 +16,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
  
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 💬 Ask me about: React, javascript, OOP, HTML&CSS.
 
 - ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
 
