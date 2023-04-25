@@ -17,6 +17,26 @@
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank">
+
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -41,25 +61,6 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
 
   <a href="https://git-scm.com/" target="_blank">
     <img
@@ -69,7 +70,62 @@
       height="40"
     />
   </a>
+
+  <a href="" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+      alt="linux-original"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+      alt="npm-original-wordmark"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+      alt="redux-original"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      alt="figma-original"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
+
 
 
 <!-- About section: END -->
