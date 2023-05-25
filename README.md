@@ -134,7 +134,7 @@
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyjan" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats-kohl-one-15.vercel.app/api/top-langs/?username=fadyjan&exclude_repo=Ecommerce-website-Using-Django,TicTacToe-Game-Using-Java" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats-kohl-one-15.vercel.app/api/top-langs/?username=fadyjan&exclude_repo=Ecommerce-website-Using-Django,TicTacToe-Game-Using-Java" alt="Gift's language" height="192px"  width="300px"/>
 </div>
 
 **Expand to view**
