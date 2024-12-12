@@ -8,7 +8,7 @@
  <!-- About section -->
 
 ---
-✨ Front-End developer with more than 3 years of experience for one of the biggest Internet of Things platform providers in Egypt. As a 'Computer and Control Engineer' graduate with a passion for web developing and building friendly user interfaces using ReactJS beside JavaScript.
+✨ Front-End developer with more than 5 years of experience for one of the biggest Internet of Things platform providers in Egypt. As a 'Computer and Control Engineer' graduate with a passion for web developing and building friendly user interfaces using ReactJS beside JavaScript.
 
 
 <!-- code gif-->
